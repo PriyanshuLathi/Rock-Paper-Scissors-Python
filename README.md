@@ -54,11 +54,6 @@ This is a simple command-line Rock, Paper, Scissors game written in Python. The 
     n 
     Thanks for playing!
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/PriyanshuLathi/Rock-Paper-Scissors-Python/blob/main/LICENSE) file for details.
-
 ## Acknowledgments
 
 - Inspired by classic Rock, Paper, Scissors gameplay.
